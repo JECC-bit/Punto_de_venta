@@ -1,0 +1,1 @@
+Aqui se encuentran los archivos los cuales extraen los datos de la base de datos para poder presentarlos en la tabla del Vue
