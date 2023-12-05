@@ -1,0 +1,9 @@
+Notas de mejoras en el sistema:
+
+en ventas ocupo agregar la fecha, en id articulo ocupo poner solamente la descripcion del articulo
+y tambien registrar que la misma venta tenga diferentes articulos
+
+crear un nuevo apartado de usuarios para poder asignar roles
+
+quitar la asignacion de roles del registrar usuario
+
